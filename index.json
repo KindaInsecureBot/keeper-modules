@@ -33,10 +33,6 @@
             "type": "ui_qml",
             "version": "1.0.0",
             "view": "Main.qml"
-          },
-          "hashes": {
-            "root": "014faf067f7977f5ff5e400bf109cc4727145ec46f63fe9c06ee82e25152fadf",
-            "variants": "df52fec0999610a0f5f6f2207f15a87f5d8d5f0e56e6cf6b084bd791c33369f3"
           }
         }
       ]
@@ -71,10 +67,6 @@
             "type": "ui_qml",
             "version": "1.0.0",
             "view": "Main.qml"
-          },
-          "hashes": {
-            "root": "186c413232d727bcdeb4af50dde9a3fed8fb6adb97fcc80c2d55954e32064f87",
-            "variants": "64453ca7ebf4064f8087000550e743539d30b95aa0633737b0151a26607884c5"
           }
         }
       ]
@@ -107,11 +99,6 @@
             "name": "keeper",
             "type": "core",
             "version": "0.1.0"
-          },
-          "hashes": {
-            "root": "32d023e4a485360a7b86aa4049eb3e662395b6bf41a04ed921ea987b0c459034",
-            "variants": "7b61ec50afea9a614a342d8c81e6cc64ed6e94e830a14c313f2bb09e92b89e7d",
-            "variants/linux-amd64": "7b61ec50afea9a614a342d8c81e6cc64ed6e94e830a14c313f2bb09e92b89e7d"
           }
         }
       ]
@@ -145,10 +132,6 @@
             "type": "ui_qml",
             "version": "0.1.0",
             "view": "qml/Main.qml"
-          },
-          "hashes": {
-            "root": "c17a4168c061da7596d75265a5487b586e4f06e3f98a55c7b9fc4909fa61d0f7",
-            "variants": "9f85d572a92d54590ae55ac270440e0cc5c144e1ce8e1f41a9cd31d28ab867a9"
           }
         }
       ]
@@ -181,11 +164,6 @@
             "name": "keycard",
             "type": "core",
             "version": "1.0.0"
-          },
-          "hashes": {
-            "root": "538cb061504a62f9dc5f65a959ff6a4132a6a1cfd953e3d7b8c0b8efdd7b186b",
-            "variants": "145ee41d3e60feb9ebc7d7ca713f394b735d3fc9381d266e8b1919a1fc3754c8",
-            "variants/linux-amd64-dev": "145ee41d3e60feb9ebc7d7ca713f394b735d3fc9381d266e8b1919a1fc3754c8"
           }
         }
       ]
@@ -219,10 +197,6 @@
             "type": "ui_qml",
             "version": "1.0.0",
             "view": "qml/Main.qml"
-          },
-          "hashes": {
-            "root": "38ab9ec9264cef8036830ba9e34dcbf2fbb0926c5cd8f51d47bf20cbcd656901",
-            "variants": "d3301a8590c334064f000fb4a6e60fe588c0d337fd2c2e4e6e365fb4d8fb5efd"
           }
         }
       ]
@@ -255,11 +229,6 @@
             "name": "logos_beacon",
             "type": "core",
             "version": "1.0.0"
-          },
-          "hashes": {
-            "root": "5374ad224db08bf59baffc12c10ce4c81ad5d2b69b62a5593091f77fe474a969",
-            "variants": "8600d7cb1c603ab08b75af3bee84a38bae31427b48fdbd25ea682410930a14d6",
-            "variants/linux-amd64-dev": "8600d7cb1c603ab08b75af3bee84a38bae31427b48fdbd25ea682410930a14d6"
           }
         }
       ]
@@ -292,11 +261,6 @@
             "name": "logos_cord",
             "type": "core",
             "version": "1.0.0"
-          },
-          "hashes": {
-            "root": "75be462066292247b8aca5e866334f410a6df94ae9767f25dc7f3c1d6dd3e7d5",
-            "variants": "7560254c4dd8bbbe489fc2c2498d0f6c85d408b230e087fbd0d4430924fd6322",
-            "variants/linux-amd64-dev": "7560254c4dd8bbbe489fc2c2498d0f6c85d408b230e087fbd0d4430924fd6322"
           }
         }
       ]
@@ -331,11 +295,6 @@
             "name": "stash",
             "type": "core",
             "version": "0.1.0"
-          },
-          "hashes": {
-            "root": "3b63ade7bd1bdbe76415aba89ad8f313098eefeccb4b321b3d31908f40a3d76d",
-            "variants": "480246279a3ee54f802f3ad25d93f76600e8e1d3c18abe8bb4129ecaf9c0023f",
-            "variants/linux-amd64": "480246279a3ee54f802f3ad25d93f76600e8e1d3c18abe8bb4129ecaf9c0023f"
           }
         }
       ]
@@ -369,10 +328,6 @@
             "type": "ui_qml",
             "version": "0.1.0",
             "view": "qml/Main.qml"
-          },
-          "hashes": {
-            "root": "6316ad134c4d2a48b09978bf1d73530f4888e0d6f6607ecaf2387c8211b3d33a",
-            "variants": "d2fcd20f7b9e17a48553a8a5f016a671e44b44d840a2a494823a5177463eb126"
           }
         }
       ]
