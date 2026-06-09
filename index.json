@@ -17,8 +17,7 @@
             "author": "Beacon",
             "category": "storage",
             "dependencies": [
-              "logos_beacon",
-              "liblogos_zone_sequencer_module"
+              "logos_beacon"
             ],
             "description": "Beacon UI \u2014 on-chain CID inscription",
             "hashes": {
@@ -51,8 +50,7 @@
             "author": "Cord",
             "category": "social",
             "dependencies": [
-              "logos_cord",
-              "liblogos_zone_sequencer_module"
+              "logos_cord"
             ],
             "description": "Cord UI \u2014 subscribe to Beacon channels",
             "hashes": {
@@ -278,9 +276,7 @@
           "manifest": {
             "author": "",
             "category": "storage",
-            "dependencies": [
-              "storage_module"
-            ],
+            "dependencies": [],
             "description": "Lean decentralised storage \u2014 drop a file, get a CID back",
             "hashes": {
               "root": "c2c287721638e63b91c880e49df397e094ee6146b6609934c1a5bccd6463187a",
