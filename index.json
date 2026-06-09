@@ -9,7 +9,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "beacon_ui-1.0.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-beacon_ui-module-lgx-1.0.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/logos_beacon-v1.0.0/logos-beacon_ui-module-lgx-1.0.0.lgx",
           "size": 12797,
           "sha256": "df52fec0999610a0f5f6f2207f15a87f5d8d5f0e56e6cf6b084bd791c33369f3",
           "rootHash": "014faf067f7977f5ff5e400bf109cc4727145ec46f63fe9c06ee82e25152fadf",
@@ -43,7 +43,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "cord_ui-1.0.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-cord_ui-module-lgx-1.0.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/logos_cord-v1.0.0/logos-cord_ui-module-lgx-1.0.0.lgx",
           "size": 9327,
           "sha256": "64453ca7ebf4064f8087000550e743539d30b95aa0633737b0151a26607884c5",
           "rootHash": "186c413232d727bcdeb4af50dde9a3fed8fb6adb97fcc80c2d55954e32064f87",
@@ -77,7 +77,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "keeper-0.1.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-keeper-module-lib-lgx-0.1.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/keeper-v0.1.0/logos-keeper-module-lib-lgx-0.1.0.lgx",
           "size": 3802416,
           "sha256": "7b61ec50afea9a614a342d8c81e6cc64ed6e94e830a14c313f2bb09e92b89e7d",
           "rootHash": "32d023e4a485360a7b86aa4049eb3e662395b6bf41a04ed921ea987b0c459034",
@@ -109,7 +109,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "keeper_ui-0.1.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-keeper_ui-module-lgx-0.1.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/keeper-v0.1.0/logos-keeper_ui-module-lgx-0.1.0.lgx",
           "size": 6987,
           "sha256": "9f85d572a92d54590ae55ac270440e0cc5c144e1ce8e1f41a9cd31d28ab867a9",
           "rootHash": "c17a4168c061da7596d75265a5487b586e4f06e3f98a55c7b9fc4909fa61d0f7",
@@ -142,7 +142,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "keycard-1.0.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-keycard-module-lib-lgx-1.0.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/keycard-v1.0.0/logos-keycard-module-lib-lgx-1.0.0.lgx",
           "size": 834697,
           "sha256": "145ee41d3e60feb9ebc7d7ca713f394b735d3fc9381d266e8b1919a1fc3754c8",
           "rootHash": "538cb061504a62f9dc5f65a959ff6a4132a6a1cfd953e3d7b8c0b8efdd7b186b",
@@ -174,7 +174,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "keycard-ui-1.0.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-keycard-ui-module-lgx-1.0.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/keycard-v1.0.0/logos-keycard-ui-module-lgx-1.0.0.lgx",
           "size": 18720,
           "sha256": "d3301a8590c334064f000fb4a6e60fe588c0d337fd2c2e4e6e365fb4d8fb5efd",
           "rootHash": "38ab9ec9264cef8036830ba9e34dcbf2fbb0926c5cd8f51d47bf20cbcd656901",
@@ -207,7 +207,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "logos_beacon-1.0.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-logos_beacon-module-lib-lgx-1.0.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/logos_beacon-v1.0.0/logos-logos_beacon-module-lib-lgx-1.0.0.lgx",
           "size": 587324,
           "sha256": "8600d7cb1c603ab08b75af3bee84a38bae31427b48fdbd25ea682410930a14d6",
           "rootHash": "5374ad224db08bf59baffc12c10ce4c81ad5d2b69b62a5593091f77fe474a969",
@@ -239,7 +239,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "logos_cord-1.0.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-logos_cord-module-lib-lgx-1.0.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/logos_cord-v1.0.0/logos-logos_cord-module-lib-lgx-1.0.0.lgx",
           "size": 558115,
           "sha256": "7560254c4dd8bbbe489fc2c2498d0f6c85d408b230e087fbd0d4430924fd6322",
           "rootHash": "75be462066292247b8aca5e866334f410a6df94ae9767f25dc7f3c1d6dd3e7d5",
@@ -271,7 +271,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "stash-0.1.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-stash-module-lib-lgx-0.1.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/stash-v0.1.0/logos-stash-module-lib-lgx-0.1.0.lgx",
           "size": 235852,
           "sha256": "480246279a3ee54f802f3ad25d93f76600e8e1d3c18abe8bb4129ecaf9c0023f",
           "rootHash": "3b63ade7bd1bdbe76415aba89ad8f313098eefeccb4b321b3d31908f40a3d76d",
@@ -305,7 +305,7 @@
         {
           "releasedAt": "2026-06-09T10:00:00Z",
           "publisherRef": "stash_ui-0.1.0",
-          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-stash_ui-module-lgx-0.1.0.lgx",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/stash-v0.1.0/logos-stash_ui-module-lgx-0.1.0.lgx",
           "size": 9175,
           "sha256": "d2fcd20f7b9e17a48553a8a5f016a671e44b44d840a2a494823a5177463eb126",
           "rootHash": "6316ad134c4d2a48b09978bf1d73530f4888e0d6f6607ecaf2387c8211b3d33a",
