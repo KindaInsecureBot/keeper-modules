@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 2,
+  "repositoryName": "keeper-modules",
+  "generatedAt": "2026-06-09T10:00:00Z",
+  "packages": [
+    {
+      "name": "beacon_ui",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "beacon_ui-1.0.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-beacon_ui-module-lgx-1.0.0.lgx",
+          "size": 12797,
+          "sha256": "df52fec0999610a0f5f6f2207f15a87f5d8d5f0e56e6cf6b084bd791c33369f3",
+          "rootHash": "014faf067f7977f5ff5e400bf109cc4727145ec46f63fe9c06ee82e25152fadf",
+          "manifest": {
+            "author": "Beacon",
+            "category": "storage",
+            "dependencies": [
+              "logos_beacon",
+              "liblogos_zone_sequencer_module"
+            ],
+            "description": "Beacon UI \u2014 on-chain CID inscription",
+            "hashes": {
+              "root": "3630af675eb149d89fe777ba8098123ef0b7778906e10ba3e583eb9eab93391c",
+              "variants": "d4353be31d232f13f6c0b7810b1316a35a7fc0d69d2befd84c959c3df181dba3",
+              "variants/linux-amd64-dev": "d73a1b405bfa77651d362b8a264c248e01e3efda9e8fdc8251a16a6cb322995e"
+            },
+            "icon": "Beacon_sidebar.png",
+            "main": {},
+            "manifestVersion": "0.2.0",
+            "name": "beacon_ui",
+            "type": "ui_qml",
+            "version": "1.0.0",
+            "view": "Main.qml"
+          },
+          "hashes": {
+            "root": "014faf067f7977f5ff5e400bf109cc4727145ec46f63fe9c06ee82e25152fadf",
+            "variants": "df52fec0999610a0f5f6f2207f15a87f5d8d5f0e56e6cf6b084bd791c33369f3"
+          }
+        }
+      ]
+    },
+    {
+      "name": "cord_ui",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "cord_ui-1.0.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-cord_ui-module-lgx-1.0.0.lgx",
+          "size": 9327,
+          "sha256": "64453ca7ebf4064f8087000550e743539d30b95aa0633737b0151a26607884c5",
+          "rootHash": "186c413232d727bcdeb4af50dde9a3fed8fb6adb97fcc80c2d55954e32064f87",
+          "manifest": {
+            "author": "Cord",
+            "category": "social",
+            "dependencies": [
+              "logos_cord",
+              "liblogos_zone_sequencer_module"
+            ],
+            "description": "Cord UI \u2014 subscribe to Beacon channels",
+            "hashes": {
+              "root": "44718b5a27c8e4a6318ae423fa8c5cd00d506ca2d697c2e4fe6217a9a834ada2",
+              "variants": "7332457af4aa98e8499a1a20aa0e903172bdf5947fe0776e11d18e13bd9a144e",
+              "variants/linux-amd64-dev": "ea8c3b5ecc3a040e2626e6e9a9304982ebdcf14c6ae547b500e72c1384042fc7"
+            },
+            "icon": "Cord_sidebar.png",
+            "main": {},
+            "manifestVersion": "0.2.0",
+            "name": "cord_ui",
+            "type": "ui_qml",
+            "version": "1.0.0",
+            "view": "Main.qml"
+          },
+          "hashes": {
+            "root": "186c413232d727bcdeb4af50dde9a3fed8fb6adb97fcc80c2d55954e32064f87",
+            "variants": "64453ca7ebf4064f8087000550e743539d30b95aa0633737b0151a26607884c5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "keeper",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "keeper-0.1.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-keeper-module-lib-lgx-0.1.0.lgx",
+          "size": 3802416,
+          "sha256": "7b61ec50afea9a614a342d8c81e6cc64ed6e94e830a14c313f2bb09e92b89e7d",
+          "rootHash": "32d023e4a485360a7b86aa4049eb3e662395b6bf41a04ed921ea987b0c459034",
+          "manifest": {
+            "author": "",
+            "category": "storage",
+            "dependencies": [],
+            "description": "Preserve Internet Archive collections \u2014 download, store CIDs, inscribe on-chain",
+            "hashes": {
+              "root": "1feae42a21ea5566df5938d11a558fcaa465d10b1038860cb4fd35cf82891c14",
+              "variants": "f4532a267587ca0ee3054538af2c0841fe7b8dfb80058bf2d378e958a898624b",
+              "variants/linux-amd64": "1dd4e223ed5cff56eccdd4e833e8fee4719ae9581b1718bc5dba2404c2636b86"
+            },
+            "icon": "",
+            "main": {
+              "linux-amd64": "keeper_plugin.so"
+            },
+            "manifestVersion": "0.2.0",
+            "name": "keeper",
+            "type": "core",
+            "version": "0.1.0"
+          },
+          "hashes": {
+            "root": "32d023e4a485360a7b86aa4049eb3e662395b6bf41a04ed921ea987b0c459034",
+            "variants": "7b61ec50afea9a614a342d8c81e6cc64ed6e94e830a14c313f2bb09e92b89e7d",
+            "variants/linux-amd64": "7b61ec50afea9a614a342d8c81e6cc64ed6e94e830a14c313f2bb09e92b89e7d"
+          }
+        }
+      ]
+    },
+    {
+      "name": "keeper_ui",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "keeper_ui-0.1.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-keeper_ui-module-lgx-0.1.0.lgx",
+          "size": 6987,
+          "sha256": "9f85d572a92d54590ae55ac270440e0cc5c144e1ce8e1f41a9cd31d28ab867a9",
+          "rootHash": "c17a4168c061da7596d75265a5487b586e4f06e3f98a55c7b9fc4909fa61d0f7",
+          "manifest": {
+            "author": "",
+            "category": "storage",
+            "dependencies": [
+              "keeper"
+            ],
+            "description": "Preserve Internet Archive collections to Logos Storage \u2014 UI",
+            "hashes": {
+              "root": "6d6479576f289bd33c8acd149018d073d950889b6c032819b00f29a16eb98f15",
+              "variants": "27bfec3dc205250fb90ae0a6f4bd95e090974f84bd5be87cfbc18f86fe002c3d",
+              "variants/linux-amd64-dev": "9b7694e58bdc0d91003f1aad5a08cf1c3dd2f40a5c3fab2783c301c840373bd7"
+            },
+            "icon": "keeper.png",
+            "main": {},
+            "manifestVersion": "0.2.0",
+            "name": "keeper_ui",
+            "type": "ui_qml",
+            "version": "0.1.0",
+            "view": "qml/Main.qml"
+          },
+          "hashes": {
+            "root": "c17a4168c061da7596d75265a5487b586e4f06e3f98a55c7b9fc4909fa61d0f7",
+            "variants": "9f85d572a92d54590ae55ac270440e0cc5c144e1ce8e1f41a9cd31d28ab867a9"
+          }
+        }
+      ]
+    },
+    {
+      "name": "keycard",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "keycard-1.0.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-keycard-module-lib-lgx-1.0.0.lgx",
+          "size": 834697,
+          "sha256": "145ee41d3e60feb9ebc7d7ca713f394b735d3fc9381d266e8b1919a1fc3754c8",
+          "rootHash": "538cb061504a62f9dc5f65a959ff6a4132a6a1cfd953e3d7b8c0b8efdd7b186b",
+          "manifest": {
+            "author": "",
+            "category": "security",
+            "dependencies": [],
+            "description": "Keycard smartcard authentication module for Logos Basecamp",
+            "hashes": {
+              "root": "20580caa756f06f63dea169eee8fc3068f024fb378242bbb3d6b7c8dace33eb6",
+              "variants": "c71f9ee4b439ff6dfb773aff8ed5abd90831431d3e850d9e6770bfbda21b5eff",
+              "variants/linux-amd64-dev": "5331e9255741a22abf9479d52a4d1c25c730bdc558b870fc6d974cf351ed9a09"
+            },
+            "icon": "",
+            "main": {
+              "linux-amd64-dev": "keycard_plugin.so"
+            },
+            "manifestVersion": "0.2.0",
+            "name": "keycard",
+            "type": "core",
+            "version": "1.0.0"
+          },
+          "hashes": {
+            "root": "538cb061504a62f9dc5f65a959ff6a4132a6a1cfd953e3d7b8c0b8efdd7b186b",
+            "variants": "145ee41d3e60feb9ebc7d7ca713f394b735d3fc9381d266e8b1919a1fc3754c8",
+            "variants/linux-amd64-dev": "145ee41d3e60feb9ebc7d7ca713f394b735d3fc9381d266e8b1919a1fc3754c8"
+          }
+        }
+      ]
+    },
+    {
+      "name": "keycard-ui",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "keycard-ui-1.0.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-keycard-ui-module-lgx-1.0.0.lgx",
+          "size": 18720,
+          "sha256": "d3301a8590c334064f000fb4a6e60fe588c0d337fd2c2e4e6e365fb4d8fb5efd",
+          "rootHash": "38ab9ec9264cef8036830ba9e34dcbf2fbb0926c5cd8f51d47bf20cbcd656901",
+          "manifest": {
+            "author": "",
+            "category": "security",
+            "dependencies": [
+              "keycard"
+            ],
+            "description": "Keycard debug UI and test harness",
+            "hashes": {
+              "root": "bd39c486f8baf33fab0d061ed0fc083b7b8e974b5b5a64adc7be9d83a2634889",
+              "variants": "2c0513df7a118ef52e9f6c3464f4c2b53739b70658d814eb62ac0d3ee822b4de",
+              "variants/linux-amd64-dev": "5fb706d907d64e33b80e0f61f74dba64044c2b7fb3044fd4e53b0f2d2a46689c"
+            },
+            "icon": "keycard.png",
+            "main": {},
+            "manifestVersion": "0.2.0",
+            "name": "keycard-ui",
+            "type": "ui_qml",
+            "version": "1.0.0",
+            "view": "qml/Main.qml"
+          },
+          "hashes": {
+            "root": "38ab9ec9264cef8036830ba9e34dcbf2fbb0926c5cd8f51d47bf20cbcd656901",
+            "variants": "d3301a8590c334064f000fb4a6e60fe588c0d337fd2c2e4e6e365fb4d8fb5efd"
+          }
+        }
+      ]
+    },
+    {
+      "name": "logos_beacon",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "logos_beacon-1.0.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-logos_beacon-module-lib-lgx-1.0.0.lgx",
+          "size": 587324,
+          "sha256": "8600d7cb1c603ab08b75af3bee84a38bae31427b48fdbd25ea682410930a14d6",
+          "rootHash": "5374ad224db08bf59baffc12c10ce4c81ad5d2b69b62a5593091f77fe474a969",
+          "manifest": {
+            "author": "",
+            "category": "storage",
+            "dependencies": [],
+            "description": "Beacon \u2014 on-chain CID inscription",
+            "hashes": {
+              "root": "425144045fb53857ca95d0a8068813efb83bdd58773d02d61a443b67210e124e",
+              "variants": "946ceb68676d7f977c67e2bd364014c26d4dac24c31a0e19c504435ea47fb3cd",
+              "variants/linux-amd64-dev": "a7246467c945d98de40b58bc6d3cd21a9a2cce7670f3982295d50442134d9c0d"
+            },
+            "icon": "",
+            "main": {
+              "linux-amd64-dev": "logos_beacon_plugin.so"
+            },
+            "manifestVersion": "0.2.0",
+            "name": "logos_beacon",
+            "type": "core",
+            "version": "1.0.0"
+          },
+          "hashes": {
+            "root": "5374ad224db08bf59baffc12c10ce4c81ad5d2b69b62a5593091f77fe474a969",
+            "variants": "8600d7cb1c603ab08b75af3bee84a38bae31427b48fdbd25ea682410930a14d6",
+            "variants/linux-amd64-dev": "8600d7cb1c603ab08b75af3bee84a38bae31427b48fdbd25ea682410930a14d6"
+          }
+        }
+      ]
+    },
+    {
+      "name": "logos_cord",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "logos_cord-1.0.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-logos_cord-module-lib-lgx-1.0.0.lgx",
+          "size": 558115,
+          "sha256": "7560254c4dd8bbbe489fc2c2498d0f6c85d408b230e087fbd0d4430924fd6322",
+          "rootHash": "75be462066292247b8aca5e866334f410a6df94ae9767f25dc7f3c1d6dd3e7d5",
+          "manifest": {
+            "author": "",
+            "category": "social",
+            "dependencies": [],
+            "description": "Cord \u2014 social layer: subscribe to Beacon channels",
+            "hashes": {
+              "root": "4120db174d68a78486387085a59e8360293b1b62fc3b73a0b46bc57caad15be2",
+              "variants": "0e5a78de7bbf89bcf0e0fad4379d1aee6a5a5de3beda5c9128d05b285def6916",
+              "variants/linux-amd64-dev": "094c1dd0d3d0f641955073fd67f7f03e7a101502aabf707a90494142f0a56737"
+            },
+            "icon": "",
+            "main": {
+              "linux-amd64-dev": "logos_cord_plugin.so"
+            },
+            "manifestVersion": "0.2.0",
+            "name": "logos_cord",
+            "type": "core",
+            "version": "1.0.0"
+          },
+          "hashes": {
+            "root": "75be462066292247b8aca5e866334f410a6df94ae9767f25dc7f3c1d6dd3e7d5",
+            "variants": "7560254c4dd8bbbe489fc2c2498d0f6c85d408b230e087fbd0d4430924fd6322",
+            "variants/linux-amd64-dev": "7560254c4dd8bbbe489fc2c2498d0f6c85d408b230e087fbd0d4430924fd6322"
+          }
+        }
+      ]
+    },
+    {
+      "name": "stash",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "stash-0.1.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-stash-module-lib-lgx-0.1.0.lgx",
+          "size": 235852,
+          "sha256": "480246279a3ee54f802f3ad25d93f76600e8e1d3c18abe8bb4129ecaf9c0023f",
+          "rootHash": "3b63ade7bd1bdbe76415aba89ad8f313098eefeccb4b321b3d31908f40a3d76d",
+          "manifest": {
+            "author": "",
+            "category": "storage",
+            "dependencies": [
+              "storage_module"
+            ],
+            "description": "Lean decentralised storage \u2014 drop a file, get a CID back",
+            "hashes": {
+              "root": "c2c287721638e63b91c880e49df397e094ee6146b6609934c1a5bccd6463187a",
+              "variants": "0e7cf1d33db39d0e83844958ba4213013df87df4d40a26965146c161591886d5",
+              "variants/linux-amd64": "bf661bda44ec2c148fa52a976da3f67a1dbbd9df4d0eabbacc2fbe55dc079093"
+            },
+            "icon": "",
+            "main": {
+              "linux-amd64": "stash_plugin.so"
+            },
+            "manifestVersion": "0.2.0",
+            "name": "stash",
+            "type": "core",
+            "version": "0.1.0"
+          },
+          "hashes": {
+            "root": "3b63ade7bd1bdbe76415aba89ad8f313098eefeccb4b321b3d31908f40a3d76d",
+            "variants": "480246279a3ee54f802f3ad25d93f76600e8e1d3c18abe8bb4129ecaf9c0023f",
+            "variants/linux-amd64": "480246279a3ee54f802f3ad25d93f76600e8e1d3c18abe8bb4129ecaf9c0023f"
+          }
+        }
+      ]
+    },
+    {
+      "name": "stash_ui",
+      "versions": [
+        {
+          "releasedAt": "2026-06-09T10:00:00Z",
+          "publisherRef": "stash_ui-0.1.0",
+          "url": "https://github.com/KindaInsecureBot/keeper-modules/releases/download/v1.0.0/logos-stash_ui-module-lgx-0.1.0.lgx",
+          "size": 9175,
+          "sha256": "d2fcd20f7b9e17a48553a8a5f016a671e44b44d840a2a494823a5177463eb126",
+          "rootHash": "6316ad134c4d2a48b09978bf1d73530f4888e0d6f6607ecaf2387c8211b3d33a",
+          "manifest": {
+            "author": "",
+            "category": "storage",
+            "dependencies": [
+              "stash"
+            ],
+            "description": "Lean decentralised storage \u2014 UI",
+            "hashes": {
+              "root": "3bd4c8eed7905f33b2ec6b33490d4afaa177eb2ddfeb18164d8fa70613b135fe",
+              "variants": "49c8abf2a4dde1cac1ff70b4a99ca6ab5e49a1db4cf96f44cad74afe27d47870",
+              "variants/linux-amd64-dev": "1b7eb90b664eb46b45b530c4eb541d5d62ea9b0805731c1ec53c3f17ff1f6183"
+            },
+            "icon": "Stash_sidebar.png",
+            "main": {},
+            "manifestVersion": "0.2.0",
+            "name": "stash_ui",
+            "type": "ui_qml",
+            "version": "0.1.0",
+            "view": "qml/Main.qml"
+          },
+          "hashes": {
+            "root": "6316ad134c4d2a48b09978bf1d73530f4888e0d6f6607ecaf2387c8211b3d33a",
+            "variants": "d2fcd20f7b9e17a48553a8a5f016a671e44b44d840a2a494823a5177463eb126"
+          }
+        }
+      ]
+    }
+  ]
+}
